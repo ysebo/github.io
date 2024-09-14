@@ -28,7 +28,7 @@ body{
 .container .left-side
 {
     position: relative;
-    background: #003147;
+    background: #2b3033;
     padding: 40px;
 }
 .profileText{
@@ -276,7 +276,7 @@ p{
         grid-template-columns: repeat(1,1fr);
     }
     .skills .box{
-        grid-template-columns: repeat(1,1fr);
+        grid-template-columns: repeat(1);
     }
   }
   
